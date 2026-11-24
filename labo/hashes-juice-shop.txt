@@ -1,0 +1,16 @@
+# Hashes d'ENTRAINEMENT (MD5 non salé) — module Sécurité des applications, J4.
+# ATTENTION : ce ne sont PAS les vrais hashes d'OWASP Juice Shop. Ceux-là,
+# vous les récupérerez vous-même pendant le labo, sur votre instance locale
+# (SQLi sur /rest/products/search, ou l'export admin). Ce fichier sert à
+# s'entraîner au craquage AVANT, pour comprendre le principe.
+# Format : utilisateur:hash_md5
+alpha:25b4378b833e32ba992154c705f4b848
+bravo:7c6a180b36896a0a8c02787eeafb0e4c
+charlie:6297acef06f732c289c27f5979497c6c
+delta:a591024321c5e2bdbd23ed35f0574dde
+echo:6a5b4d7eaecee4db464012a81c177187
+foxtrot:be5d9ba998a9412a49a6e9d4fcedf931
+golf:110d46fcd978c24f306cd7fa23464d73
+hotel:7d9ad0211d6493e8d55a4a75de3f90a1
+india:6125582d980e736238e9eb1ab73d6517
+juliet:3c150e6739b9b2c7b6a1e177a7ba55ab
